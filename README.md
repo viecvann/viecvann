@@ -5,21 +5,21 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Viec, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
+👋 Hi there! I’m Viec, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 
-<!-- other links?
-Linkedin profile
--->
+<!-- Other links -->
+Linkedin www.linkedin.com/in/viec-nguyen-035b8574
 
 ## About Me 🎓 
 
-
 -- please update this part with your pitch --
-I have a focus on data analytics. 
+I have a focus on data analytics and committed to continuously improve on my data expertise, staying up to date with BI tools, visualisation software, and database management systems.enhancing my proficiency  sharpening my analytical and critical thinking skills through hands-on projects showcased in my GitHub portfolio. I  I am now seeking an opportunity to apply my skills in a dynamic environment where I can contribute effectively while gaining invaluable industry experience. 
 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
-🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
+📊 Proficient in Python, SQL, Excel, Power BI, Tableau and data visualisation tools (Matplotlib, Seaborn). 
+🧩 Skilled in data cleaning, data validation, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
+
+
 
 ## Projects
 
