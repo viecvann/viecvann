@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
-
 👋 Hi there! I’m Viec, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 
 <!-- Other links -->
@@ -12,29 +11,24 @@ Linkedin www.linkedin.com/in/viec-nguyen-035b8574
 
 ## About Me 🎓 
 
--- please update this part with your pitch --
-I have a focus on data analytics and committed to continuously improve on my data expertise, staying up to date with BI tools, visualisation software, and database management systems.enhancing my proficiency  sharpening my analytical and critical thinking skills through hands-on projects showcased in my GitHub portfolio. I  I am now seeking an opportunity to apply my skills in a dynamic environment where I can contribute effectively while gaining invaluable industry experience. 
 
-📊 Proficient in Python, SQL, Excel, Power BI, Tableau and data visualisation tools (Matplotlib, Seaborn). 
-🧩 Skilled in data cleaning, data validation, exploratory data analysis (EDA), and statistical modelling. 
-🌐 Curious about web scraping and API integration. 
+I have a focus on data analytics and committed to continuously improve on my data expertise, staying up to date with BI tools, visualisation software and database management systems. I have been enhancing my proficiency through hands-on projects, using several technologies in conjunction to sharpen my analytical and critical thinking skills. I am now seeking an opportunity to apply my skills in a dynamic environment where I can contribute effectively while gaining invaluable industry experience. 
+
+📊 Proficient in Python, SQL, Excel, Power BI, Tableau and data visualisation tools (Matplotlib, Seaborn).
+🧩 Skilled in data cleaning, data validation, exploratory data analysis (EDA), and statistical modelling.
+🌐 Curious about web scraping and API integration.
 
 
 
 ## Projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
-
-
-
-
 ### PowerBI
 - **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+  - **Description**: In this project I will go through a Tourism dataset to conduct data analytical findings, including:
+      - Employment in Tourism related industries
+      - CO2 emissions in aviation per capita
+      - Average expenditures of tourists.
+  - **Technologies Used**: Power BI Desktop, Fabric (Power BI web publishing feature), Excel (csv data sources)
 
 ### Tableau
 - **Project Name**: [Project Title](link-to-project)
