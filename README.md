@@ -9,7 +9,6 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 
 <!-- other links?
 Linkedin profile
-
 -->
 
 ## About Me 🎓 
@@ -95,9 +94,22 @@ I have a focus on data analytics.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/viecvann"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
+![Viec's GitHub stats](https://github-readme-stats.vercel.app/api?username=viecvann&theme=dracula&show_icons=true alt="Viec's Github stats")
 
-<a href="http://www.github.com/viecvann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali06112023&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!--Github Stats Dracula Theme-->
+<a href="http://www.github.com/viecvann"><img src="https://github-readme-stats.vercel.app/api?username=viecvann&theme=dracula&show_icons=true" alt="viecvann's GitHub stats" /></a>
+
+
+<!--
+<a href="http://www.github.com/viecvann"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
+-->
+
+<a href="http://www.github.com/viecvann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=viecvann&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<a href="http://www.github.com/viecvann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=viecvann&theme=dracula&show_icons=true" /></a>
+
+
 
 <a href="https://github.com/viecvann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali06112023&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
 https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
