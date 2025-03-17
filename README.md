@@ -94,13 +94,15 @@ I have a focus on data analytics.
 
 <b>My GitHub Stats</b>
 
-![Viec's GitHub stats](https://github-readme-stats.vercel.app/api?username=viecvann&theme=dracula&show_icons=true alt="Viec's Github stats")
-
 <!--Github Stats Dracula Theme-->
 <a href="http://www.github.com/viecvann"><img src="https://github-readme-stats.vercel.app/api?username=viecvann&theme=dracula&show_icons=true" alt="viecvann's GitHub stats" /></a>
 
 <!--Streak Stats Dracula Theme-->
 <a href="http://www.github.com/viecvann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=viecvann&theme=dracula&show_icons=true" /></a>
+
+<!--Top Languages Dracula Theme-->
+<a href="https://github.com/viecvann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=viecvann&theme=dracula&show_icons=true" alt="Top Languages" /></a>
+
 
 <!--
 <a href="http://www.github.com/viecvann"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
@@ -114,7 +116,6 @@ https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&sho
 
 -->
 
-<a href="https://github.com/viecvann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=viecvann&theme=dracula&show_icons=true" alt="Top Languages" /></a>
 
 
 
