@@ -61,9 +61,21 @@ I have a focus on data analytics and committed to continuously improve on my dat
   - **Technologies Used**: MySQL Workbench 8.0 CE
 
 ### Python and Pandas
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+- **Project Name**: [Python Training](https://github.com/viecvann/Python---Training.git)
+  - **Description**: In this project I will go through Python exercises that I completed for my own development in data analysis and to build on my technical proficiency. These projects cover:
+      - Python foundational skills including if statements, shortcut operators, data types
+      - Indexing data into a list, tuple, set, dictionary
+      - Navigating datasets with while and for loops
+      - Using Pandas to upload and mount dataframes, inspecting and cleaning data
+      - Creating data visualisations using Matplotlib and Seaborn
+  - **Technologies Used**: Google Colab, Pandas, Matplotlib and Seaborn (data visualisations), Excel (csv data sources)
+
+- **Project Name**: [GDP per Capita](https://github.com/viecvann/Python---GDP.git)
+  - **Description**: In this project I will go through the GDP per Capita of countries, creating data visualisations and conducting Exploratory Data Analysis, including:
+      - IMF world estimates and Worldbank estimates
+      - Data cleaning and validation
+      - Creating a selection of data visualisations using correlation heatmaps, scatter plots and histograms
+  - **Technologies Used**: Google Colab, Pandas, Matplotlib and Seaborn (data visualisations), Excel (csv data sources)
 
 ### DP900
 - **Project Name**: [Project Title](link-to-project)
