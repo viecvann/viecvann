@@ -46,9 +46,19 @@ I have a focus on data analytics and committed to continuously improve on my dat
   - **Technologies Used**: Tableau Public, Excel (csv data sources)
 
 ### MySQL
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+- **Project Name**: [SQL Training](https://github.com/viecvann/SQL---Training.git)
+  - **Description**: In this project I will go through SQL exercises that I completed for my own development in data analysis and to build on my technical proficiency. These projects cover:
+      - Creating databases and inserting sample data to populate the fields
+      - Using appropriate joins to combine tables together and build relationships in my dataset
+      - Performing aggregations to select and view relevant data
+  - **Technologies Used**: MySQL Workbench 8.0 CE
+
+- **Project Name**: [World db](https://github.com/viecvann/SQL---World.git)
+  - **Description**: In this project I will go through the widely known World db and conduct complex data analysis to obtain findings, including:
+      - Population density of countries
+      - Average population comparisons
+      - City and Country GDP per Capita
+  - **Technologies Used**: MySQL Workbench 8.0 CE
 
 ### Python and Pandas
 - **Project Name**: [Project Title](link-to-project)
