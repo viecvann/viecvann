@@ -21,7 +21,7 @@ I have a focus on data analytics and committed to continuously improve on my dat
 
 ## Projects
 
-### PowerBI
+### Power BI
 - **Project Name**: [Tourism Project](https://github.com/viecvann/Power-BI---Tourism-Project.git)
   - **Description**: In this project I will go through a Tourism dataset to conduct data analytical findings, including:
       - Employment in Tourism related industries
