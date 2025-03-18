@@ -29,15 +29,21 @@ I have a focus on data analytics and committed to continuously improve on my dat
       - Average expenditures of tourists.
   - **Technologies Used**: Power BI Desktop, Fabric (Power BI web publishing feature), Excel (csv data sources)
 
-### Tableau
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Project Name**: [Adventure Works](https://github.com/viecvann/Power-BI---Adventure-Works.git)
+  - **Description**: In this project I will go through the business performance for the retail company, Adventure Works and conduct data analysis of their financial earnings.
+  - **Technologies Used**: Power BI Desktop, Fabric (Power BI web publishing feature), SQL (db update), Excel (csv data sources)
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
+### Tableau
+- **Project Name**: [UK Employment](https://github.com/viecvann/Tableau---UKEmployment.git)
+  - **Description**: In this project I will go through the UK's Employment sector in 2011 & 2014 to create data visualisations, including:
+      - Net difference in Job changes
+      - Industry Growth Rate
+      - Job Market contribution
+  - **Technologies Used**: Tableau Public, Excel (csv data sources)
+
+- **Project Name**: [World Health Data](https://github.com/viecvann/Tableau---WorldHealthData.git)
+  - **Description**: In this project I will go through global health indicators between 1990-2008, to create data visualisation reports from my analytical findings.
+  - **Technologies Used**: Tableau Public, Excel (csv data sources)
 
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
