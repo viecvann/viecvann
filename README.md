@@ -76,6 +76,13 @@ I have a focus on data analytics and committed to continuously improve on my dat
       - Data cleaning and validation
       - Creating a selection of data visualisations using correlation heatmaps, scatter plots and histograms
   - **Technologies Used**: Google Colab, Pandas, Matplotlib and Seaborn (data visualisations), Excel (csv data sources)
+
+- **Project Name**: [A&E Dashboard](https://github.com/viecvann/Python---AE-Dashboard.git)
+  - **Description**: In this project I will go through an Accident and Emergency dataset for a hospital in the year 2023-2024 to showcase the service performance and highlight KPIs, such as patient wait times and their satisfaction scores. I will be using several Data Analytical tools in conjunction to:
+      - Produce data visualisations and dashboard reports
+      - Perform automated tasks in data inspection, cleaning and validation 
+      - Present information and key insights to stakeholders effectively
+  - **Technologies Used**: Google Colab, Pandas, Power BI (data visualisations), Excel (csv data sources)
 <!--
 ### DP900
 - **Project Name**: [Project Title](link-to-project)
