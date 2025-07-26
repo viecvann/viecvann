@@ -91,7 +91,7 @@ I have a focus on data analytics and committed to continuously improve on my dat
 
 
 
-* 🌍  I'm based in Sheffield
+* 🌍  I'm based in UK
 * ✉️  You can contact me at [viecvann@gmail.com](mailto:viecvann@gmail.com)
 * 🧠  I'm learning Pandas
 * 🤝  I'm open to collaborating on Data Analytical projects for all forms of industries
